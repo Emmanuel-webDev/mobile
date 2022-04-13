@@ -1,1 +1,1 @@
-# mobile
+# For mobile only
